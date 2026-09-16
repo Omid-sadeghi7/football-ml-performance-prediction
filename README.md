@@ -20,3 +20,7 @@ The models demonstrated strong predictive performance in estimating players’ m
 **Skills Demonstrated**
 
 Machine Learning, Feature Engineering, Model Evaluation, Scenario Simulation, Sports Analytics
+
+## Dissertation Report
+
+The full dissertation report is available upon request.
